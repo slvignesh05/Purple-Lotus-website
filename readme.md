@@ -22,6 +22,8 @@ We blend automation with deep research. Our team is featured in Halls of Fame li
 
 ---
 
+![cat2](https://raw.githubusercontent.com/slvignesh05/Purple-Lotus-website/refs/heads/main/public/pop-cat.gif)
+
 ##  Let's Connect
 
 📧 hello@purplelotus.live 
